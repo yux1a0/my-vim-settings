@@ -7,9 +7,6 @@ set hls
 " 备份
 set backup
 set backupdir=~/.vim/vimbackup
-" 高亮当前行
-set cursorline
-highlight CursorLine   cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
 
 " 交换文件
 set swapfile
