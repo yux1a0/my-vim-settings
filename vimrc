@@ -44,9 +44,6 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-" python
-Plugin 'vim-scripts/indentpython.vim'
-
 " NERDTree 文件系统浏览文件
 Bundle 'scrooloose/nerdtree'
 "DTreeQuitOnOpen=1 
